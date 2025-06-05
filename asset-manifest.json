@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/EcoExpedicoes/static/css/main.6d92739f.css",
+    "main.js": "/EcoExpedicoes/static/js/main.55c94668.js",
+    "static/js/914.04902f15.chunk.js": "/EcoExpedicoes/static/js/914.04902f15.chunk.js",
+    "static/js/140.30aefd4e.chunk.js": "/EcoExpedicoes/static/js/140.30aefd4e.chunk.js",
+    "static/js/512.4fbd5a25.chunk.js": "/EcoExpedicoes/static/js/512.4fbd5a25.chunk.js",
+    "static/js/739.467c0b12.chunk.js": "/EcoExpedicoes/static/js/739.467c0b12.chunk.js",
+    "static/js/15.23b607df.chunk.js": "/EcoExpedicoes/static/js/15.23b607df.chunk.js",
+    "static/js/658.2620c90f.chunk.js": "/EcoExpedicoes/static/js/658.2620c90f.chunk.js",
+    "static/js/834.0058dc29.chunk.js": "/EcoExpedicoes/static/js/834.0058dc29.chunk.js",
+    "static/js/117.1c6b1526.chunk.js": "/EcoExpedicoes/static/js/117.1c6b1526.chunk.js",
+    "static/js/374.269ffd94.chunk.js": "/EcoExpedicoes/static/js/374.269ffd94.chunk.js",
+    "index.html": "/EcoExpedicoes/index.html",
+    "main.6d92739f.css.map": "/EcoExpedicoes/static/css/main.6d92739f.css.map",
+    "main.55c94668.js.map": "/EcoExpedicoes/static/js/main.55c94668.js.map",
+    "914.04902f15.chunk.js.map": "/EcoExpedicoes/static/js/914.04902f15.chunk.js.map",
+    "140.30aefd4e.chunk.js.map": "/EcoExpedicoes/static/js/140.30aefd4e.chunk.js.map",
+    "512.4fbd5a25.chunk.js.map": "/EcoExpedicoes/static/js/512.4fbd5a25.chunk.js.map",
+    "739.467c0b12.chunk.js.map": "/EcoExpedicoes/static/js/739.467c0b12.chunk.js.map",
+    "15.23b607df.chunk.js.map": "/EcoExpedicoes/static/js/15.23b607df.chunk.js.map",
+    "658.2620c90f.chunk.js.map": "/EcoExpedicoes/static/js/658.2620c90f.chunk.js.map",
+    "834.0058dc29.chunk.js.map": "/EcoExpedicoes/static/js/834.0058dc29.chunk.js.map",
+    "117.1c6b1526.chunk.js.map": "/EcoExpedicoes/static/js/117.1c6b1526.chunk.js.map",
+    "374.269ffd94.chunk.js.map": "/EcoExpedicoes/static/js/374.269ffd94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d92739f.css",
+    "static/js/main.55c94668.js"
+  ]
+}
